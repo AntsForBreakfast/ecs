@@ -5,8 +5,6 @@ from tp import *
 
 """Example of switching between levels with ecs"""
 
-"""How to make collidable system that react only when collided and only when all inside"""
-
 DISPLAY_SIZE = (1920, 1080)
 FPS = 60
 
